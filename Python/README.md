@@ -1,7 +1,7 @@
 # Simple OOP Python Implementation of RSA Encryption Algorithm
 Just use the RSAEncryption folder and import it to the header of python code
 
-## Set Up
+## Set Up🛠️
 Copy the ``RSAEncryption`` folder into your project directory folder.<br><br>
 Recommended Tree Structure
 ```
@@ -31,7 +31,7 @@ rsa = RSA(100, 200)
 """
 ```
 
-## Example Usage
+## Example Usage⚙️
 This is the example usage of RSAEncryption library for encrypting ``Hello brooo`` sentence with random prime number generate between 100 and 200.
 ```Python
 from RSAEncryption.RSAEncryption import RSA
@@ -59,7 +59,7 @@ decryptedText = ''.join(str(data) for data in decrypted) # convert array into st
 print(decryptedText) # if it's succesfully work, it will print -----> Hello brooo
 ```
 
-Actually it's quite short code, this code below are the original code without comments
+Actually it's quite short code, this code below is the same original code but without comments
 ```Python
 from RSAEncryption.RSAEncryption import RSA
 
