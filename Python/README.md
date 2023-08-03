@@ -12,7 +12,7 @@ Recommended Tree Structure
     └── your_main_python_code.py
 ```
 
-import and use the class ferom the module/library
+import and use the class from the module/library
 
 ```Python
 from RSAEncryption.RSAEncryption import RSA # import the RSA class from this module/library
