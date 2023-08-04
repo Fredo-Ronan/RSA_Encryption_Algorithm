@@ -47,7 +47,7 @@ encrypted = rsa.encrypt(messageText) # encrypt the message using encrypt method 
 encryptedText = '|'.join(str(data) for data in encrypted) # convert array into string with '|' separator between the encrypted data
 
 print(encryptedText) # if it's successfully work, it will print ----> 6318|7744|138|138|8205|9713|8806|22888|8205|8205|8205|
-
+                                                                      # NOTE that this result numbers are always different
 
 
 # decrypt part ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
