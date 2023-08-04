@@ -7,17 +7,17 @@ An implementation of famous RSA Encryption Algorithm in several programming lang
 .
 └── RSA_Encryption_Algorithm/
     ├── C++/
-    │   ├── RSAEncryption <---- Main Library folder
+    │   ├── RSAEncryption <---- Main C++ Library folder
     │   ├── main
     │   ├── main.cpp
     │   └── README.md
     ├── Javascript/
-    │   ├── RSAEncryption <---- Main module folder
+    │   ├── RSAEncryption <---- Main Javascript module folder
     │   ├── README.md
     │   ├── index.html
     │   └── main-script.js
     ├── Python/
-    │   ├── RSAEncryption <---- Main module/library folder
+    │   ├── RSAEncryption <---- Main Python module/library folder
     │   └── README.md
     ├── LICENSE
     └── README.md
